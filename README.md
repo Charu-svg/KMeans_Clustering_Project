@@ -26,3 +26,7 @@ import pandas as pd
 df = pd.read_csv("Mall_Customers.csv")
 print(df.shape)
 print(df.head())
+
+HOW TO RUN
+git clone https://github.com/Charu-svg/KMeans_Clustering_Project
+ 
